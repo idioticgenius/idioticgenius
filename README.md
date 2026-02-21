@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am abhidan and this is my repo 👋
 
 <!--
 **idioticgenius/idioticgenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
