@@ -10,6 +10,6 @@
 
 <div align=center>
   <img width=390 src="https://github-stats-extended.vercel.app/api?username=idioticgenius&theme=dracula&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Abhidan's GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=idioticgenius&theme=dracula" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=idioticgenius&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 <hr>
