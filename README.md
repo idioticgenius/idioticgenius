@@ -13,6 +13,4 @@
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=idioticgenius&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Abhidan's" />
 
 </div>
-  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=idioticgenius)](https://github.com/stats-organization/github-stats-extended)
-
 <hr>
